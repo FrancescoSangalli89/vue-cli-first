@@ -9,5 +9,8 @@
 </script>
 
 <style>
-
+    h1 {
+        padding: 1rem 0;
+        font-size: 4rem;
+    }
 </style>
